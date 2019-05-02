@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "22419628635",
+    "firebase_url": "https://flutterrecipes-27770.firebaseio.com",
+    "project_id": "flutterrecipes-27770",
+    "storage_bucket": "flutterrecipes-27770.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22419628635:android:17b5d01c23d4cdbb",
+        "android_client_info": {
+          "package_name": "com.company.recipes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22419628635-1magklbui5rsjie2lgsiq807n1v18ki5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.company.recipes",
+            "certificate_hash": "15037994c28e592a3b605a491143b4e4cc6c3cdb"
+          }
+        },
+        {
+          "client_id": "22419628635-fnsiu3r9tqslept1sslvdvhfd8j0ah75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuO_KKK7sqYPpv1-0iZolZzubzpJU8Hvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22419628635-fnsiu3r9tqslept1sslvdvhfd8j0ah75.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
