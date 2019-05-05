@@ -80,7 +80,7 @@ class _DetailScreenState extends State<DetailScreen>
               forceElevated: innerViewIsScrolled,
               bottom: TabBar(
                 tabs: <Widget>[
-                  Tab(text: "Home"),
+                  Tab(text: "Products"),
                   Tab(text: "Preparation"),
                 ],
                 controller: _tabController,
