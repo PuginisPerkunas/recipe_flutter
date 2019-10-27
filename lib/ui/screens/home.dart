@@ -125,7 +125,7 @@ class HomeScreenState extends State<HomeScreen> {
                 stream: stream,
                 builder: (BuildContext context,
                     AsyncSnapshot<QuerySnapshot> snapshot) {
-                  if (!snapshot.hasData) return _buildLoadingIndicator();
+                  if (snapshot.data == null) return _buildLoadingIndicator();
                   return new ListView(
                     children: snapshot.data.documents
                         // Check if the argument ids contains document ID if ids has been passed:

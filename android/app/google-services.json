@@ -15,11 +15,56 @@
       },
       "oauth_client": [
         {
+          "client_id": "22419628635-dha7h4f493pqnc8n5t200qu5ok6lb8fr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.company.recipes",
+            "certificate_hash": "5486a1637e5dfd40c0ed468208694f39c5b4a4dd"
+          }
+        },
+        {
           "client_id": "22419628635-1magklbui5rsjie2lgsiq807n1v18ki5.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.company.recipes",
             "certificate_hash": "15037994c28e592a3b605a491143b4e4cc6c3cdb"
+          }
+        },
+        {
+          "client_id": "22419628635-fnsiu3r9tqslept1sslvdvhfd8j0ah75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuO_KKK7sqYPpv1-0iZolZzubzpJU8Hvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22419628635-fnsiu3r9tqslept1sslvdvhfd8j0ah75.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22419628635:android:bee08e100aff0ba8",
+        "android_client_info": {
+          "package_name": "test.com.example.jau"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22419628635-33kh0k537rarvo43r6a4npggs8k69jld.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "test.com.example.jau",
+            "certificate_hash": "33b808c1c948aabf84fa08094f1e84636fd34189"
           }
         },
         {
